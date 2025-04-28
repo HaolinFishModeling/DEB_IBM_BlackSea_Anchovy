@@ -3,4 +3,4 @@ Coupled DEB-IBM with low trophic level model (NEMO-BAMHBI) to simulate Black Sea
 
 This model is running by R program, and it is still under developing.
 
-The main script which incorperate all functions is "4800_SIs.R"
+The main script which incorperate all functions is "R_code/main_code.R"
